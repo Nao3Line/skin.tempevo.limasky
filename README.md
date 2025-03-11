@@ -3,17 +3,10 @@
 
 A skin for Kodi that gives a modern and appealing impression.
 
-<<<<<<< HEAD
-# Experience your Kodi interface becoming more captivating with the TempEvo skin.
-This project began under the name AnimaMax (GitHub repository: skin.animav6 - This skin has been made private), inspired by renowned Kodi skins such as Estuary, Amber, Pellucid, Unity, AppTV, FTV, and others. After a hiatus in 2023 due to various commitments, it was revived in early 2024 under a new name (Anima LimaSky) and continuously updated until early 2025, when it was renamed LimaSky TempEvo and publicly uploaded to a new repository (this repository).
-
-# Screenshots
-=======
 ## Experience your Kodi interface becoming more captivating with the TempEvo skin.
 This project began under the name AnimaMax (GitHub repository: skin.animav6 - This skin has been made private), inspired by renowned Kodi skins such as Estuary, Amber, Pellucid, Unity, AppTV, FTV, and others. After a hiatus in 2023 due to various commitments, it was revived in early 2024 under a new name (Anima LimaSky) and continuously updated until early 2025, when it was renamed LimaSky TempEvo and publicly uploaded to a new repository (this repository).
 
-## Screenshots
->>>>>>> 4b3d67277bcf6a59287c9769b9beaf6b4c53e58a
+# Screenshots
 
 Screenshots of the skin from its early release versions that are still 'saved' to this day.
 
